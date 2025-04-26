@@ -1,4 +1,4 @@
-package com.example.hello_world
+package com.example.helloworld
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
